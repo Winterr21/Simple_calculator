@@ -1,2 +1,3 @@
 # Simple_calculator
-Simple working calculator in html
+Simple working calculator created using html and css
+
